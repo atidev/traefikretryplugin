@@ -1,0 +1,5 @@
+# github.com/atidev/golib v0.1.0
+## explicit; go 1.19
+github.com/atidev/golib/pkg/intervals
+github.com/atidev/golib/pkg/set
+github.com/atidev/golib/pkg/structuredheaders
