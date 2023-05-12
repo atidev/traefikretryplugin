@@ -1,0 +1,5 @@
+# gitlab.ati.st/golang-x/techlib v0.1.0
+## explicit; go 1.19
+gitlab.ati.st/golang-x/techlib/pkg/intervals
+gitlab.ati.st/golang-x/techlib/pkg/set
+gitlab.ati.st/golang-x/techlib/pkg/structuredheaders
