@@ -1,0 +1,7 @@
+displayName: Retry Plugin
+summary: TODO
+type: middleware
+import: github.com/atidev/traefikretryplugin
+testData:
+  Headers:
+    Retry-Policy: codes="[502 504]"
