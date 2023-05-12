@@ -1,0 +1,5 @@
+displayName: Retry Plugin
+summary: TODO
+type: middleware
+import: traefikretryplugin
+testData:
