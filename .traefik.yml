@@ -1,7 +1,7 @@
 displayName: Retry Plugin
 summary: Plugin that allows to retry HTTP requests based on policy specified in the header
 type: middleware
-import: github.com/niki-timofe/traefikretryplugin
+import: github.com/atidev/traefikretryplugin
 testData:
   Headers:
     Retry-Policy: codes="[502 504]"
