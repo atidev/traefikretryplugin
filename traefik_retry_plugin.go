@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"context"
 	"fmt"
-	. "github.com/niki-timofe/traefikretryplugin/internal"
+	. "github.com/atidev/traefikretryplugin/internal"
 	. "gitlab.ati.st/golang-x/techlib/pkg/structuredheaders"
 	"io"
 	"net/http"

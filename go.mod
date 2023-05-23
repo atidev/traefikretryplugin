@@ -1,4 +1,4 @@
-module github.com/niki-timofe/traefikretryplugin
+module github.com/atidev/traefikretryplugin
 
 go 1.20
 
