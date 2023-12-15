@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"errors"
 	"fmt"
-	"gitlab.ati.st/golang-x/techlib/pkg/set"
+	"github.com/atidev/golib/pkg/set"
 	"io"
 	"strconv"
 	"strings"

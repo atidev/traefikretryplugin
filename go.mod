@@ -2,4 +2,4 @@ module github.com/atidev/traefikretryplugin
 
 go 1.20
 
-require gitlab.ati.st/golang-x/techlib v0.1.0
+require github.com/atidev/golib v0.0.1

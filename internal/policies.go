@@ -2,8 +2,8 @@ package traefikretryplugin
 
 import (
 	"fmt"
-	. "gitlab.ati.st/golang-x/techlib/pkg/intervals"
-	. "gitlab.ati.st/golang-x/techlib/pkg/structuredheaders"
+	. "github.com/atidev/golib/pkg/intervals"
+	. "github.com/atidev/golib/pkg/structuredheaders"
 )
 
 type RetryPolicy struct {
